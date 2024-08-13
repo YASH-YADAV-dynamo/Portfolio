@@ -39,7 +39,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/3.png",
       githubUrl: "https://github.com/YASH-YADAV-dynamo/menal-health-hackathon/tree/main",
-      liveUrl: "https://github.com/akshatcoder-hash/FOSSCU-ENS/",
+      liveUrl: "https://menal-health.vercel.app/",
     }, 
     {
       title: "FOSSCU-TOKEN",

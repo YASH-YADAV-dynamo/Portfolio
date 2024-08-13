@@ -14,7 +14,7 @@ export const info = {
 
   projects: [
     {
-      title: "CHEN-HOKAN",
+      title: "CHEN HOKAN",
       isFeatured: true,
       thumbnail: "/assets/images/0.png",
       githubUrl: "https://github.com/YASH-YADAV-dynamo/CHEN-HOKAN",
@@ -35,7 +35,7 @@ export const info = {
       liveUrl: "https://re-plant2.vercel.app/",
     },
     {
-      title: "Mental-Health",
+      title: "Mental Health",
       isFeatured: true,
       thumbnail: "/assets/images/3.png",
       githubUrl: "https://github.com/YASH-YADAV-dynamo/menal-health-hackathon/tree/main",
@@ -49,26 +49,11 @@ export const info = {
       liveUrl: "",
     },
     {
-      title: "Dy_grep",
+      title: "Dygrep",
       isFeatured: true,
       thumbnail: "/assets/images/5.png",
       githubUrl: "https://github.com/YASH-YADAV-dynamo/dy_grep",
       liveUrl: "",
     },
-    {
-      title: "stockAlert",
-      isFeatured: true,
-      thumbnail: "/assets/images/6.png",
-      githubUrl: "https://github.com/YASH-YADAV-dynamo/stockAlert",
-      liveUrl: "https://stockalert-cfpglw8ysoevafpljfsby6.streamlit.app/",
-    },
-    {
-      title: "Kuizu-geemu",
-      isFeatured: true,
-      thumbnail: "/assets/images/7.png",
-      githubUrl: "https://github.com/YASH-YADAV-dynamo/kuizu-geemu",
-      liveUrl: "",
-    },
-
   ],
 };

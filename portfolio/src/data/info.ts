@@ -8,7 +8,6 @@ export const info = {
   socialMedia: {
     twitter: "https://x.com/yashastro23",
     github: "https://github.com/YASH-YADAV-dynamo",
-    email: "",
     linkedin: "https://www.linkedin.com/in/yash-yadav23/",
   },
 

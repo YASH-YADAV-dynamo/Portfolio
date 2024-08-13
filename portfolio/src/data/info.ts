@@ -41,5 +41,34 @@ export const info = {
       githubUrl: "https://github.com/YASH-YADAV-dynamo/menal-health-hackathon/tree/main",
       liveUrl: "https://github.com/akshatcoder-hash/FOSSCU-ENS/",
     }, 
+    {
+      title: "FOSSCU-TOKEN",
+      isFeatured: true,
+      thumbnail: "/assets/images/4.png",
+      githubUrl: "https://github.com/YASH-YADAV-dynamo/FOSSCU_TOKEN",
+      liveUrl: "",
+    },
+    {
+      title: "Dy_grep",
+      isFeatured: true,
+      thumbnail: "/assets/images/5.png",
+      githubUrl: "https://github.com/YASH-YADAV-dynamo/dy_grep",
+      liveUrl: "",
+    },
+    {
+      title: "stockAlert",
+      isFeatured: true,
+      thumbnail: "/assets/images/6.png",
+      githubUrl: "https://github.com/YASH-YADAV-dynamo/stockAlert",
+      liveUrl: "https://stockalert-cfpglw8ysoevafpljfsby6.streamlit.app/",
+    },
+    {
+      title: "Kuizu-geemu",
+      isFeatured: true,
+      thumbnail: "/assets/images/7.png",
+      githubUrl: "https://github.com/YASH-YADAV-dynamo/kuizu-geemu",
+      liveUrl: "",
+    },
+
   ],
 };
